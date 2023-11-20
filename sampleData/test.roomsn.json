@@ -1,0 +1,348 @@
+[{
+  "_id": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "roomNumber": 101,
+  "roomName": "Pochinki",
+  "roomType": "Review",
+  "roomFloor": 1,
+  "roomCapacity": 5,
+  "roomFormal": false,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de522"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de538"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de539"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de543"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de559"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de561"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de563"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de576"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de579"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57a"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "roomNumber": 102,
+  "roomName": "Rozhok",
+  "roomType": "Meeting",
+  "roomFloor": 1,
+  "roomCapacity": 10,
+  "roomFormal": true,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de520"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de53a"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de53c"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de53f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de548"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54a"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54b"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54c"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de550"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55b"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de562"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de565"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de567"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "roomNumber": 103,
+  "roomName": "Gatka",
+  "roomType": "Conference",
+  "roomFloor": 1,
+  "roomCapacity": 20,
+  "roomFormal": true,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de525"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de527"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de53e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de540"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de555"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de557"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de564"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de568"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de575"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de578"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57f"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "roomNumber": 201,
+  "roomName": "Georgopol",
+  "roomType": "Review",
+  "roomFloor": 2,
+  "roomCapacity": 5,
+  "roomFormal": false,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de51e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de52e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de52f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de534"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de549"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de558"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55a"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55c"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56b"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de571"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de572"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de573"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57c"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de581"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "roomNumber": 202,
+  "roomName": "Mylta",
+  "roomType": "Meeting",
+  "roomFloor": 2,
+  "roomCapacity": 10,
+  "roomFormal": true,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de521"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de528"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de52a"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de52d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de530"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de532"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de535"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de53d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de542"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de544"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de545"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de547"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de54d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de552"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de553"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de554"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de55e"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de560"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de566"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56a"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de570"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57d"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de580"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "roomNumber": 203,
+  "roomName": "Stabler",
+  "roomType": "Conference",
+  "roomFloor": 2,
+  "roomCapacity": 20,
+  "roomFormal": true,
+  "roomBookings": [
+    {
+      "$oid": "6543c275631e7cc3c73de51f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de546"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de551"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de556"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de569"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56c"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de56f"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de574"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de577"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57b"
+    },
+    {
+      "$oid": "6543c275631e7cc3c73de57e"
+    }
+  ],
+  "__v": 2
+}]

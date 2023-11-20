@@ -1,0 +1,2000 @@
+[{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de51e"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-18T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de51f"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de520"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-14T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de521"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-18T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de522"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-28T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-28T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de523"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-12T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-12T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de524"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-19T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-19T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de525"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-20T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de526"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-28T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-28T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de527"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de528"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-25T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de529"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-16T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-16T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52a"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-06T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52b"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-06T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52c"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-02T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-02T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52d"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-12T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-12T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52e"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-28T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-28T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de52f"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-28T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-28T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de530"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-19T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-19T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de531"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-25T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de532"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-11-28T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-11-28T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de533"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-01T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de534"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de535"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de536"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-01T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de537"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-01T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de538"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-01T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de539"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53a"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-02T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-02T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53b"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-02T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-02T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53c"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53d"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53e"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de53f"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de540"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de541"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de542"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de543"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de544"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-03T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de545"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de546"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de547"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de548"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de549"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54a"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54b"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-12-04T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54c"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54d"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54e"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de54f"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de550"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de551"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de552"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de553"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de554"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de555"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de556"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de557"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de558"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de559"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55a"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55b"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55c"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55d"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55e"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de55f"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de560"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de561"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de562"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de563"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de564"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de565"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de566"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de567"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de568"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de569"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56a"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56b"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56c"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56d"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56e"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de56f"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de570"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de571"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de572"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:15:00.000Z"
+  },
+  "bookingDuration": 15,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de573"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de574"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de575"
+  },
+  "bookingUser": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "Objects Array",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de576"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de577"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de578"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:45:00.000Z"
+  },
+  "bookingDuration": 45,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de579"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T00:30:00.000Z"
+  },
+  "bookingDuration": 30,
+  "bookingTitle": "React Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57a"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57b"
+  },
+  "bookingUser": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:00:00.000Z"
+  },
+  "bookingDuration": 60,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57c"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57d"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Deployment Meeting",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57e"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:15:00.000Z"
+  },
+  "bookingDuration": 75,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de57f"
+  },
+  "bookingUser": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:45:00.000Z"
+  },
+  "bookingDuration": 105,
+  "bookingTitle": "DOM Review",
+  "bookingDescription": "Discuss project updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de580"
+  },
+  "bookingUser": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T01:30:00.000Z"
+  },
+  "bookingDuration": 90,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss review updates."
+},
+{
+  "_id": {
+    "$oid": "6543c275631e7cc3c73de581"
+  },
+  "bookingUser": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "bookingRoomID": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "bookingStartTime": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "bookingEndTime": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "bookingDuration": 120,
+  "bookingTitle": "Life Skills Class",
+  "bookingDescription": "Discuss project updates."
+}]

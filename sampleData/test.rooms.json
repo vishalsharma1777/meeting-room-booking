@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6543af71631e7cc3c73de424"
+  },
+  "roomNumber": 101,
+  "roomName": "Pochinki",
+  "roomType": "Review",
+  "roomFloor": 1,
+  "roomCapacity": 5,
+  "roomFormal": false,
+  "roomBookings": []
+},
+{
+  "_id": {
+    "$oid": "6543af9a631e7cc3c73de425"
+  },
+  "roomNumber": 102,
+  "roomName": "Rozhok",
+  "roomType": "Meeting",
+  "roomFloor": 1,
+  "roomCapacity": 10,
+  "roomFormal": true,
+  "roomBookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b028631e7cc3c73de426"
+  },
+  "roomNumber": 103,
+  "roomName": "Gatka",
+  "roomType": "Conference",
+  "roomFloor": 1,
+  "roomCapacity": 20,
+  "roomFormal": true,
+  "roomBookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b111631e7cc3c73de427"
+  },
+  "roomNumber": 201,
+  "roomName": "Georgopol",
+  "roomType": "Review",
+  "roomFloor": 2,
+  "roomCapacity": 5,
+  "roomFormal": false,
+  "roomBookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b1ab631e7cc3c73de428"
+  },
+  "roomNumber": 202,
+  "roomName": "Mylta",
+  "roomType": "Meeting",
+  "roomFloor": 2,
+  "roomCapacity": 10,
+  "roomFormal": true,
+  "roomBookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b1ee631e7cc3c73de429"
+  },
+  "roomNumber": 203,
+  "roomName": "Stabler",
+  "roomType": "Conference",
+  "roomFloor": 2,
+  "roomCapacity": 20,
+  "roomFormal": true,
+  "roomBookings": []
+}]

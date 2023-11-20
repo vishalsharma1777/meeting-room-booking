@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6543b3ec631e7cc3c73de42c"
+  },
+  "username": "sachin",
+  "password": "sachin",
+  "email": "sachin@mountblue.io",
+  "bookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b421631e7cc3c73de42d"
+  },
+  "username": "ashok",
+  "password": "ashok",
+  "email": "ashok@mountblue.io",
+  "bookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b447631e7cc3c73de42e"
+  },
+  "username": "pramod",
+  "password": "pramod",
+  "email": "pramod@mountblue.io",
+  "bookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b46d631e7cc3c73de42f"
+  },
+  "username": "konark",
+  "password": "konark",
+  "email": "konark@mountblue.io",
+  "bookings": []
+},
+{
+  "_id": {
+    "$oid": "6543b48f631e7cc3c73de430"
+  },
+  "username": "bipasha",
+  "password": "bipasha",
+  "email": "bipasha@mountblue.io",
+  "bookings": []
+}]
